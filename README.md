@@ -1,1 +1,1 @@
-# manypets
+# manypetshackathon
